@@ -1,6 +1,4 @@
-/*Tom Kondat 318275591
-David Sharabi 315313981
-*/
+
 package Targil2;
 
 import java.util.Random;
